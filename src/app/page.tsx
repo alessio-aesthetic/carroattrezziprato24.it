@@ -76,7 +76,7 @@ function Hero() {
             </h1>
             <div className="mt-7 space-y-5 text-lg leading-8 text-slate-700">
               <p>
-                Quando unâ€™auto si blocca, non hai bisogno di una risposta
+                Quando un’auto si blocca, non hai bisogno di una risposta
                 qualsiasi. Hai bisogno di qualcuno che capisca subito dove sei,
                 che ti dica cosa comunicare e che organizzi il recupero senza
                 farti perdere lucidità. Il servizio di <strong>carroattrezzi a Prato</strong> è
@@ -193,12 +193,12 @@ function Urgencies() {
           </div>
           <SectionTitle
             eyebrow="quando chiamare"
-            title="Un intervento serio si riconosce prima dellâ€™arrivo."
+            title="Un intervento serio si riconosce prima dell’arrivo."
           >
             <p>
               La differenza non è solo il carroattrezzi: è il modo in cui viene
               gestita la richiesta. Ti chiediamo le informazioni giuste, ti
-              aiutiamo a capire se il mezzo può restare dovâ€™è e concordiamo dove
+              aiutiamo a capire se il mezzo può restare dov’è e concordiamo dove
               portarlo.
             </p>
             <p>
@@ -221,13 +221,13 @@ function Services() {
         <div className="flex flex-col justify-between gap-8 lg:flex-row lg:items-end">
           <SectionTitle eyebrow="servizi" title="Soluzioni diverse per problemi diversi.">
             <p>
-              Unâ€™auto in panne, una moto da caricare, un furgone fermo o un
+              Un’auto in panne, una moto da caricare, un furgone fermo o un
               veicolo incidentato richiedono attenzioni diverse. Per questo ogni
               richiesta viene valutata in base a mezzo, posizione, accessi e
               destinazione.
             </p>
             <p>
-              Lâ€™obiettivo è offrirti un servizio pulito: poche parole inutili,
+              L’obiettivo è offrirti un servizio pulito: poche parole inutili,
               informazioni chiare e un recupero eseguito con cura.
             </p>
           </SectionTitle>
@@ -276,9 +276,9 @@ function Zones() {
             ordinata del mezzo.
           </p>
           <p>
-            Se sei in un parcheggio privato, vicino a unâ€™officina, su una
+            Se sei in un parcheggio privato, vicino a un’officina, su una
             strada periferica o fuori paese, ti aiutiamo a comunicare i dati
-            utili per preparare lâ€™intervento nel modo più corretto.
+            utili per preparare l’intervento nel modo più corretto.
           </p>
         </SectionTitle>
         <div className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
@@ -324,7 +324,7 @@ function WhyAndPricing() {
               </p>
               <p>
                 <strong>Gestione ordinata:</strong> valutiamo accessi, mezzo e
-                condizioni prima di muoverci, così lâ€™intervento è più preciso.
+                condizioni prima di muoverci, così l’intervento è più preciso.
               </p>
             </div>
           </div>
@@ -355,7 +355,7 @@ function WhyAndPricing() {
             <p className="mt-5 text-sm leading-6 text-orange-50">
               Il costo dipende da distanza, tipo di mezzo, condizioni di
               recupero e destinazione. Prima di partire raccogliamo i dettagli
-              utili per darti unâ€™indicazione sensata e ridurre le sorprese.
+              utili per darti un’indicazione sensata e ridurre le sorprese.
             </p>
           <Link
             href={`tel:${site.tel}`}
