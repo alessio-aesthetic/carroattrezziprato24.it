@@ -1,4 +1,4 @@
-﻿export const site = {
+export const site = {
     "domain":  "carroattrezziprato24.it",
     "template":  "primer",
     "description":  "Carroattrezzi a Prato e soccorso stradale a Prato: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
