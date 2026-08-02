@@ -1,11 +1,11 @@
-export const site = {
+﻿export const site = {
     "domain":  "carroattrezziprato24.it",
     "template":  "primer",
     "description":  "Carroattrezzi a Prato e soccorso stradale a Prato: traino, recupero auto, assistenza moto e interventi rapidi in città e provincia.",
     "tel":  "+3905741802461",
     "city":  "Prato",
     "name":  "Carroattrezzi Prato",
-    "address":  "Via Galcianese, 93 - 59100 Prato PO",
+    "address":  "Via Montenero, 6 - 59100 Prato PO",
     "title":  "Carroattrezzi a Prato 24H | Soccorso stradale",
     "phone":  "0574 180 2461",
     "email":  "assistenza@carroattrezziprato24.it"
