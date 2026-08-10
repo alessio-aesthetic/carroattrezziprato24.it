@@ -5,7 +5,7 @@
     "tel":  "+3905741980036",
     "city":  "Prato",
     "name":  "Carroattrezzi Prato",
-    "address":  "Via Guido Guinizelli, 23 - 59100 Prato PO",
+    "address":  "Viale Galileo Galilei, 27 - 59100 Prato PO",
     "title":  "Carroattrezzi a Prato 24H | Soccorso stradale",
     "phone":  "0574 198 0036",
     "email":  "assistenza@carroattrezziprato24.it"
